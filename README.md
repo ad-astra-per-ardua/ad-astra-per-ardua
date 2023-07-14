@@ -2,7 +2,7 @@
 ## # 2023 UCPC Preliminary Round. Team Leader(Participate as solo) Peaked 7th (First solved on A)<br>
 ![2](https://github.com/d982h8st7/d982h8st7/assets/50827253/3f1e1100-02dc-4ef2-b02b-339357b1dbfe)
 ### Fail to advance to the finals
-## # Hyundai Mobis Algorithm Contest Student Dept. Preliminary Round 2.7/4 Solved
+## # 2023 Hyundai Mobis Algorithm Contest Student Dept. Preliminary Round 2.7/4 Solved
 ### Fail to advance to the finals
 <br>
 <br>
