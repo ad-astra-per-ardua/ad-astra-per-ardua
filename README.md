@@ -5,6 +5,7 @@
 ## # 2023 Hyundai Mobis Algorithm Contest Student Dept. Preliminary Round 2.7/4 Solved
 ### Failed to advance to the finals
 <br>
+
 ## # Codeforces Round 849 (Div. 4) 29th as virtual participant<br>
 
 ![image](https://github.com/d982h8st7/d982h8st7/assets/50827253/4bd22ffc-9728-4aee-85fd-43dc0c4b013a)
