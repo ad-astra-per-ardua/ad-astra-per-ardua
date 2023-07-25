@@ -29,7 +29,7 @@
 
 ![image](https://github.com/d982h8st7/d982h8st7/assets/50827253/f838e924-10df-473c-aab0-56295dfa417f)
 
-### Peaked 2th at All Solved moment <br>
+### Peaked 2nd at All Solved moment <br>
 ### Finished at 26th as virtual participant (fk python TLE) <hr>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=d982h8st7&theme=dark&border_radius=4.7&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)<br><br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)<br>
