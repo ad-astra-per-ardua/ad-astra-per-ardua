@@ -21,7 +21,7 @@
 ### 29th as virtual participant
 
 <br><br>
-## # Codeforced Round 886 (Div. 4) <br>
+## # Codeforces Round 886 (Div. 4) <br>
 
 ![image](https://github.com/d982h8st7/d982h8st7/assets/50827253/17650e25-97da-4e19-b134-0445a7a96f48)
 
