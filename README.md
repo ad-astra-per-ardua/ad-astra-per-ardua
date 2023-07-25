@@ -1,7 +1,7 @@
 ### Hi there 👋 <br><br><h2>Uptight Control Freak</h2><br>
 
-### - 🌱 I’m currently learning ... Rust, Spring boot, Collaboration Project <br>
-### - 🔭 I’m currently working on ... Implement Board CRUD Project with Spring boot and Mysql , focusing on the development of the GraphModule. This project represents our implementation of the Module concept from Verilog, carried out in Rust. We're in the midst of creating a representation of a Full Adder in the form of a Module, and developing a Module Builder to connect 32 of these, which will construct a 32bit Full Adder Module.
+ - 🌱 I’m currently learning ... Rust, Spring boot, Collaboration Project <br>
+ - 🔭 I’m currently working on ... Implement Board CRUD Project with Spring boot and Mysql , focusing on the development of the GraphModule. This project represents our implementation of the Module concept from Verilog, carried out in Rust. We're in the midst of creating a representation of a Full Adder in the form of a Module, and developing a Module Builder to connect 32 of these, which will construct a 32bit Full Adder Module.
 
 
 ## # 2023 UCPC Preliminary Round. Team Leader(Participated as solo) Peaked 7th (First solved on A)<br>
