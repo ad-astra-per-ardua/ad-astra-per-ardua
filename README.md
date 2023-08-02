@@ -36,7 +36,7 @@
 ### Peaked 2nd at All Solved moment <br>
 ### Finished at 26th as virtual participant (fk python TLE) <br>
 
-###programmers.co.kr In 1000 th <br>
+### # programmers.co.kr In 1000 th <br>
 
 ![image](https://github.com/d982h8st7/d982h8st7/assets/50827253/14794594-bf95-4862-81d7-28bd692972ba)
 <br>
