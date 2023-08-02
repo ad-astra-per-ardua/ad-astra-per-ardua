@@ -34,16 +34,21 @@
 ![image](https://github.com/d982h8st7/d982h8st7/assets/50827253/f838e924-10df-473c-aab0-56295dfa417f)
 
 ### Peaked 2nd at All Solved moment <br>
-### Finished at 26th as virtual participant (fk python TLE) <hr>
+### Finished at 26th as virtual participant (fk python TLE) <br>
+
+###programmers.co.kr In 1000 th <br>
+
+![image](https://github.com/d982h8st7/d982h8st7/assets/50827253/14794594-bf95-4862-81d7-28bd692972ba)
+<br>
+
+<hr>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=d982h8st7&theme=dark&border_radius=4.7&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)<br><br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd982h8st7%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=d982h8st7)](https://velog.io/@d982h8st7) <br><br>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=d982h8st7&color=dark)](https://velog.io/@d982h8st7)
 <br>
 
-programmers.co.kr In 1000 th <br>
 
-![image](https://github.com/d982h8st7/d982h8st7/assets/50827253/14794594-bf95-4862-81d7-28bd692972ba)
 
 <!--
 **d982h8st7/d982h8st7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
