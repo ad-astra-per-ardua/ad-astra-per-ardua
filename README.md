@@ -1,10 +1,9 @@
 ### Hi there 👋 <br><br><h2>Uptight Control Freak</h2><br>
 
- - 🌱 I’m currently learning ... Rust, Spring boot, Collaboration Project
- - DevOps, CI/CD With Docker. <br>
+ - 🌱 I’m currently learning ... On S/W : Rust, Spring boot, linear algebra, Discrete mathematics, Computer Science, Javascript, React, DataStructure
+ - On : DevOps, CI/CD With Docker, AWS, K8S. <br>
  
  - 🔭 I’m currently working on ...
- - Implement Board CRUD Project with Spring boot and Mysql
  - Focusing on the development of the GraphModule. This project represents our implementation of the Module concept from Verilog, carried out in Rust. We're in the midst of creating a representation of a Full Adder in the form of a Module, and developing a Module Builder to connect 32 of these, which will construct a 32bit Full Adder Module.
 
 
