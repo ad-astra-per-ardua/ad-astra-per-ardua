@@ -1,5 +1,7 @@
-<div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Seong&nbsp;Min&nbsp;KIM&fontAlign=65&fontAlignY=40&color=gradient" />
+<div align=center><h1>📚 STACKS</h1></div>
+
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white">
