@@ -1,5 +1,5 @@
 <div align=center><h1>📚 STACKS</h1></div>
-
+<div align=center>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -44,15 +44,16 @@
   <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=Anaconda&logoColor=white">
   <br>
 </div>
+<div align=center>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd982h8st7%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+</div>
 <br>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=d982h8st7&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  [![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=d982h8st7&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=d982h8st7&theme=dark&border_radius=4.7&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd982h8st7%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  <br><br>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=d982h8st7&color=dark)](https://velog.io/@d982h8st7)
-<br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=d982h8st7&theme=dark&border_radius=4.7&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)
+</div>
 
 
 <!--
