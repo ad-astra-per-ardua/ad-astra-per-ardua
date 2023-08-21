@@ -51,10 +51,12 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=d982h8st7&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  [![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=d982h8st7&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align=center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=d982h8st7&theme=dark&border_radius=4.7&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)
-</div>
 
+</div>
 
 <!--
 **d982h8st7/d982h8st7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
