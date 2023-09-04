@@ -61,7 +61,7 @@
 </div>
 
 🌱 I’m currently learning ... On <br>
- S/W : Rust, Spring boot, linear algebra, Discrete mathematics, Computer Science, Javascript, React, DataStructure
+ S/W : Rust, Spring boot, linear algebra, Discrete mathematics, Computer Science, Javascript, React, DataStructure <br>
  DevOps : CI/CD With Docker, AWS, K8S. <br>
 
 🔭 I’m currently working on ...
