@@ -60,11 +60,11 @@
 
 </div>
 
-🌱 I’m currently learning ... On <br>
+### 🌱 I’m currently learning ... <br>
  S/W : Rust, Spring boot, linear algebra, Discrete mathematics, Computer Science, Javascript, React, DataStructure <br>
  DevOps : CI/CD With Docker, AWS, K8S. <br>
 
-🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 Focusing on the development of the GraphModule. This project represents our implementation of the Module concept from Verilog, carried out in Rust. We're in the midst of creating a representation of a Full Adder in the form of a Module, and developing a Module Builder to connect 32 of these, which will construct a 32bit Full Adder Module.
 <!--
 **d982h8st7/d982h8st7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
