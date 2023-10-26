@@ -54,7 +54,7 @@
  [![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=d982h8st7&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align=center>
-[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)
 
 </div>
 
