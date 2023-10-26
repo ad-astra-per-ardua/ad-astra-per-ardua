@@ -1,5 +1,4 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Seong&nbsp;Min&nbsp;KIM&fontAlign=65&fontAlignY=40&color=gradient" />
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
