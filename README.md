@@ -51,7 +51,7 @@
 <div align=center>
 <br>
   
-<img width="1000" height="600" alt="BOJ memory - per_ardua_ad_astra (2)" src="https://github.com/user-attachments/assets/dff453ff-4d3d-44de-80f9-89bb17f546fd" />
+<img width="800" height="500" alt="BOJ memory - per_ardua_ad_astra (2)" src="https://github.com/user-attachments/assets/dff453ff-4d3d-44de-80f9-89bb17f546fd" />
 
 
 </div>
