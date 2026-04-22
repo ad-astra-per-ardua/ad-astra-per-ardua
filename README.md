@@ -49,7 +49,9 @@
 </div>
 </div>
 <div align=center>
+<br>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=per_ardua_ad_astra)](https://solved.ac/per_ardua_ad_astra/)
+<img width="1000" height="600" alt="BOJ memory - per_ardua_ad_astra (2)" src="https://github.com/user-attachments/assets/dff453ff-4d3d-44de-80f9-89bb17f546fd" />
+
 
 </div>
